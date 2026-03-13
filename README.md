@@ -3,9 +3,9 @@ Free perks you can claim with your student email
 
 Spent way too long compiling this, so figured I'd share. Everything on this list requires student verification, not generic free trials that anyone can get. Start with the GitHub Student Pack because it unlocks a lot of free services automatically, then work your way down.
 
-  Amazon Prime Student – Cheaper plan with the same benefits as regular Prime. 
+  * Amazon Prime Student – Cheaper plan with the same benefits as regular Prime. 
 
-  GitHub Student Pack – The big one. Unlocks most of this list + Copilot Pro free. (education.github.com/pack)
+  * GitHub Student Pack – The big one. Unlocks most of this list + Copilot Pro free. (education.github.com/pack)
 
   JetBrains – All IDEs free (CLion, IntelliJ, PyCharm, etc.) (jetbrains.com/student)
 
