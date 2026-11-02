@@ -35,4 +35,6 @@ Spent way too long compiling this, so figured I'd share. Everything on this list
 
 -    1Password – 1 year free password manager (via GitHub Pack)
 
+-  [Kilobat Pro for Students](https://kilobat.app/students) – One year free on two Macs for eligible students, renewable by request with a school email while studying. The proprietary Mac app is separate from the free GPL-3.0-only CLI; no payment or Kilobat account is required.
+
 **Feel free to pull request with any other .edu services**
